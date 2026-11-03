@@ -25,3 +25,7 @@ h1,h2,h3{font-family:'Poppins',sans-serif;font-weight:600}h1{font-weight:700}.he
 @media(max-width:680px){.logo{font-size:25px}.hero h1{font-size:clamp(29px,8.4vw,54px);line-height:1.15;letter-spacing:-.04em}h2{font-size:clamp(25px,6.8vw,36px)}.about h2{font-size:28px}.contact h2{font-size:30px}.service-body h3,.fleet-copy h3{font-size:22px}.journey-line h3{font-size:20px}.phone{font-size:27px}.fleet-number{font-size:160px}.fleet-tabs{gap:18px}.fleet-tabs button{font-size:10px}.hero-bottom p{font-size:12px}}
 /* Slightly darker action blue meets text contrast while preserving brand accents. */
 .orange,.service-body>a{background:#096bb7;color:#fff}.orange:hover{background:#075b9d}details[open] summary{color:#096bb7}
+
+/* Supplied SVG artwork preserves the original wordmark and icon proportions. */
+header .logo img{display:block;width:185px;height:auto}footer .logo img{display:block;width:155px;height:auto}.about-symbol>img{width:60%;max-width:250px;height:auto}.logo{letter-spacing:normal}
+@media(max-width:680px){header .logo img{width:155px}footer .logo img{width:135px}.about-symbol>img{width:180px}}
