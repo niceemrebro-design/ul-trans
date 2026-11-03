@@ -8,3 +8,5 @@ Multi-page extension preserves the brand and truck hero on the homepage. Interio
 Interior-page illustrations: parcel travelling from pickup to destination (services), vehicle departing a depot (company/fleet), and an envelope arriving with a check mark (contact). Animations play once in under five seconds and can be replayed. Reduced motion removes animation and hides replay. Legal pages remain still. The homepage now contains the complete interactive fleet with a short transform/opacity transition on vehicle selection.
 
 Services exception requested by user: the parcel animation runs continuously without a replay control; reduced motion keeps it static. Other interior animations retain their replay controls.
+
+All replay controls removed at user request. Services retain the continuous animation; other interior motifs play automatically once. Main navigation contact action is a high-contrast blue filled button on every viewport.
