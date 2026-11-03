@@ -1,0 +1,242 @@
+[
+  {
+    "source": "masonjames/Shadcnblocks-Skill",
+    "commit": "a87b3bd218056f88375ea1417ea7b1438bcca31a",
+    "skill": "shadcn-ui"
+  },
+  {
+    "source": "pbakaus/impeccable",
+    "commit": "9fadc41729c38fd47d7ae622b501558653f9d2e9",
+    "skill": "impeccable"
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+    "skill": "composition-patterns"
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+    "skill": "deploy-to-vercel"
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+    "skill": "react-best-practices"
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+    "skill": "react-native-skills"
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+    "skill": "react-view-transitions"
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+    "skill": "vercel-cli-with-tokens"
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+    "skill": "vercel-optimize"
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+    "skill": "web-design-guidelines"
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+    "skill": "writing-guidelines"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "academy-guide"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "algorithmic-art"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "brand-guidelines"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "canvas-design"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "claude-api"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "discernment-nudge"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "doc-coauthoring"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "docx"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "frontend-design"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "internal-comms"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "mcp-builder"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "pdf"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "pptx"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "skill-creator"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "slack-gif-creator"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "theme-factory"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "web-artifacts-builder"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "webapp-testing"
+  },
+  {
+    "source": "anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "xlsx"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "animate"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "animate-expo"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "animation-performance"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "animation-vocabulary"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "apple-design"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "ask-sonner"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "break-ui"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "emil-design-eng"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "find-animation-opportunities"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "improve-animations"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "mobile-native"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "pick-ui-library"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "prototype"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "remove-animations"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "review-animations"
+  },
+  {
+    "source": "emilkowalski/skill",
+    "commit": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "skill": "write-swift"
+  },
+  {
+    "source": "shadcn-ui/ui",
+    "commit": "4aaea19d9cff3e0908e12a8c1d504b8c5ec34610",
+    "skill": "migrate-radix-to-base"
+  },
+  {
+    "source": "shadcn-ui/ui",
+    "commit": "4aaea19d9cff3e0908e12a8c1d504b8c5ec34610",
+    "skill": "shadcn"
+  }
+]
