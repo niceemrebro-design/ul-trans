@@ -6,3 +6,5 @@ Original user-supplied SVG assets are stored unchanged under public/brand. Use l
 Multi-page extension preserves the brand and truck hero on the homepage. Interior pages have dark introduction sections, active navigation, contextual contact links and legal footer links. Services use full readable sections; the contact form lives only at /kontakt/.
 
 Interior-page illustrations: parcel travelling from pickup to destination (services), vehicle departing a depot (company/fleet), and an envelope arriving with a check mark (contact). Animations play once in under five seconds and can be replayed. Reduced motion removes animation and hides replay. Legal pages remain still. The homepage now contains the complete interactive fleet with a short transform/opacity transition on vehicle selection.
+
+Services exception requested by user: the parcel animation runs continuously without a replay control; reduced motion keeps it static. Other interior animations retain their replay controls.

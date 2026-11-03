@@ -22,5 +22,5 @@ if(requestForm){const selected=new URLSearchParams(location.search).get('leistun
 const motionPreference=matchMedia('(prefers-reduced-motion: reduce)');
 const arts=document.querySelectorAll('.intro-art');
 function playMotif(art){if(motionPreference.matches)return;art.classList.add('is-playing');art.getAnimations({subtree:true}).forEach(animation=>{animation.currentTime=0;animation.play()});}
-arts.forEach(art=>{playMotif(art);art.querySelector('.replay-motif').addEventListener('click',()=>playMotif(art));});
-motionPreference.addEventListener('change',()=>{if(motionPreference.matches)arts.forEach(art=>art.classList.remove('is-playing'));});
+arts.forEach(art=>{playMotif(art);art.querySelector('.replay-motif')?.addEventListener('click',()=>playMotif(art));});
+motionPreference.addEventListener('change',()=>{if(motionPreference.matches)arts.forEach(art=>art.classList.remove('is-playing'));else arts.forEach(playMotif);});
