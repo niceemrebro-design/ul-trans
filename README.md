@@ -33,3 +33,5 @@ Static Vite multi-page build: `/`, `/leistungen/`, `/fuhrpark/`, `/unternehmen/`
 Run `npm run build`, then `npm run preview -- --port 4173`, then `npm run test:site`. Tests use /usr/bin/chromium, overridable with CHROMIUM_PATH; SITE_URL defaults to http://localhost:4173.
 
 Legal pages remain explicit noindex drafts until the owner confirms legal entity, representative, business address, applicable registration/tax/authority details and actual hosting/email arrangements. Do not describe them as complete. The inquiry form remains an email-draft generator and does not transmit form data to a server.
+
+The homepage includes the interactive fleet; navigation links to `/#fuhrpark`. The separate `/fuhrpark/` URL remains available. Run `node tests/motion.mjs` against the preview server to check interior-page autoplay/replay, reduced motion and keyboard vehicle selection on the homepage.

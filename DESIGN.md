@@ -4,3 +4,5 @@ Brand specification: blue #0B7DD4 and grey #5E6570 on white; bright blue #1A93EC
 Original user-supplied SVG assets are stored unchanged under public/brand. Use light variants on white and light vehicle bodies, dark variants on dark surfaces, and white variants for single-color use. Header/footer use the original full wordmark; the company panel and favicon use the supplied icon.
 
 Multi-page extension preserves the brand and truck hero on the homepage. Interior pages have dark introduction sections, active navigation, contextual contact links and legal footer links. Services use full readable sections; the contact form lives only at /kontakt/.
+
+Interior-page illustrations: parcel travelling from pickup to destination (services), vehicle departing a depot (company/fleet), and an envelope arriving with a check mark (contact). Animations play once in under five seconds and can be replayed. Reduced motion removes animation and hides replay. Legal pages remain still. The homepage now contains the complete interactive fleet with a short transform/opacity transition on vehicle selection.
